@@ -8,7 +8,7 @@ class Dog
   end 
 end 
 
-fido = DOg.new 
+fido = Dog.new 
 fido.name = "Fido" 
 
 fido.name 
