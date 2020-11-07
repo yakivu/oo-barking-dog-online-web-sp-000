@@ -1,6 +1,7 @@
 # Your code goes here!
 class Dog
+
+end
+
 fido = Dog.new 
-fido.name = "fido"
-end
-end
+fido.name = "Fido" 
