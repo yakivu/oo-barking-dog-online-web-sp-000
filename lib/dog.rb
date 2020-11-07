@@ -1,6 +1,5 @@
 # Your code goes here!
 class Dog
-def bark
-  puts "Woof!" 
+def name=(dog_name)
 end
 end
