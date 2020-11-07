@@ -6,11 +6,9 @@ end
 def name 
   @this_dogs_name
 end
-def bark=(dog_barks)
-  @this_dog_barks
-end
+
 def bark
-  @this_dog_barks
+  puts "woof!"
 end 
 end
 
